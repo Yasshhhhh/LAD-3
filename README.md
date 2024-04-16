@@ -15,11 +15,18 @@ Full-stack Architecture: Utilized a full-stack architecture with Express and Nod
 Technology Stack:
 
 Frontend: React
+
 Backend: Express, Node.js
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT)
+
 Machine Learning: Brain.js
-This Learning Analytics Dashboard serves as a powerful tool for educators to effectively track student progress, identify areas for improvement, and personalize learning experiences to meet the needs of individual students. It empowers educators with actionable insights derived from data analysis, ultimately contributing to enhanced teaching effectiveness and student success.
+
+This Learning Analytics Dashboard serves as a powerful tool for educators to effectively track student progress, identify areas for improvement, and personalize learning experiences to meet the needs of individual students. 
+
+It empowers educators with actionable insights derived from data analysis, ultimately contributing to enhanced teaching effectiveness and student success.
 
 ![image](https://github.com/Yasshhhhh/Learning-analytics-dashboard/assets/91091885/6ddeb3d3-d3de-4987-a2ca-a6e1e8dbd019)
 
