@@ -4,10 +4,13 @@ This repository hosts the codebase for a comprehensive Learning Analytics Dashbo
 Key Features:
 
 User Authentication: Implemented secure authentication mechanisms using JSON Web Tokens (JWT) to ensure that only authorized teachers can access the dashboard.
+
 Visualization and Analysis: Utilized React for the frontend to create intuitive data visualizations and analysis tools, enabling educators to gain insights into student performance trends.
+
 Batch-wise Sorting and Ranking: Developed features to facilitate batch-wise sorting and ranking of student performance data, allowing educators to easily identify top-performing students or areas requiring attention.
+
 Predictive Analytics: Leveraged brain.js, a machine learning library, to provide accurate predictions of student marks based on historical data. This predictive capability assists educators in identifying at-risk students and implementing targeted interventions.
-Statistics Module: Implemented a statistics module to generate comprehensive statistical summaries of student performance metrics, aiding educators in identifying patterns and trends.
+
 Full-stack Architecture: Utilized a full-stack architecture with Express and Node.js for the backend, along with MongoDB for storing and managing student performance data.
 Technology Stack:
 
